@@ -1,0 +1,12 @@
+make pi4e
+./pi4
+
+./pi6d
+./pi6e
+./pi6 (to not delete fifo for task 7)
+
+./pi71 my_fifo_6
+
+./pi8 my_fifo_6
+
+./pi9 my_fifo_6
